@@ -1,0 +1,9 @@
+{
+    "id": "nodebb-theme-simplicity",
+    "name": "Simplicity, a NodeBB Theme",
+    "description": "A basic forum theme for NodeBB inspired by retro forum design",
+    "url": "https://github.com/psychobunny/nodebb-theme-simplicity",
+	"staticDir": "assets",
+    "templates": "templates",
+    "screenshot": null
+}
